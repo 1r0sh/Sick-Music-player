@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="prev">pervous</string>
+    <string name="musiclength">02:43</string>
+    <string name="startlength">00:00</string>
+    <string name="musiccover">Cover</string>
+</resources>
